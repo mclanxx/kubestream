@@ -1,0 +1,9 @@
+# Go build artifacts
+backend/api
+
+# Go test/build artifacts
+*.test
+*.out
+
+# OS/editor files
+.DS_Store
